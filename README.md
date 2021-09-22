@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhyey17
+- 👋 Hi, I’m `Dhyey Vyas`
 - 👀 I’m interested in Python development, data science and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python or data science projects 
