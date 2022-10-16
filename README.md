@@ -1,10 +1,18 @@
-- 👋 Hi, I’m `Dhyey Vyas`
-- 👀 I’m interested in Python development, data science and machine learning
-- 🌱 I’m currently learning **solidity** 
-- 💞️ I’m looking to collaborate on python or data science projects 
-- 📫 How to reach me 
--   LinkedIn: https://www.linkedin.com/in/dhyeyv/
--   Instagram: https://www.instagram.com/dh_yey/
+<h1 align="center"> Hi 👋, I'm Dhyey Vyas</h1>
+
+## About Me
+- Final Year Computer Science Student at MIT ADT University
+- Python Developer
+- Open source Contributer
+- Professional Copy Paster
+
+
+## How to reach me 
+<a href="https://www.instagram.com/_the_eyyy_/"><img src="https://cdn.icon-icons.com/icons2/791/PNG/512/instagram_f_icon-icons.com_65485.png" width=50 height=50></img> </a>
+<a href="https://www.linkedin.com/in/dhyeyv/"><img src="https://cdn.icon-icons.com/icons2/1/PNG/256/sociallinkedin_member_70.png" width=50 height=50></img> </a>
+
+
+
 <!---
 Dhyey17/Dhyey17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
