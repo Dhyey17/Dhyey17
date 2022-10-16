@@ -8,9 +8,10 @@
 
 
 ## How to reach me 
-<a href="https://www.instagram.com/_the_eyyy_/"><img src="https://cdn.icon-icons.com/icons2/791/PNG/512/instagram_f_icon-icons.com_65485.png" width=50 height=50></img> </a>
-<a href="https://www.linkedin.com/in/dhyeyv/"><img src="https://cdn.icon-icons.com/icons2/1/PNG/256/sociallinkedin_member_70.png" width=50 height=50></img> </a>
-
+<section align="center">
+<a href="https://www.instagram.com/_the_eyyy_/"><img src="https://cdn.icon-icons.com/icons2/791/PNG/512/instagram_f_icon-icons.com_65485.png" width=75 height=75></img> </a>
+<a href="https://www.linkedin.com/in/dhyeyv/"><img src="https://cdn.icon-icons.com/icons2/1/PNG/256/sociallinkedin_member_70.png" width=75 height=75></img> </a>
+</section>
 
 
 <!---
