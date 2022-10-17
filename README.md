@@ -4,7 +4,7 @@
 - Final Year Computer Science Student at MIT ADT University
 - Python Developer
 - Open source Contributer
-- Professional Copy Paster
+- Professional Copy Paster(git cloner)
 
 
 ## How to reach me 
