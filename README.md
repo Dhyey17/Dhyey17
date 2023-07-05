@@ -4,10 +4,9 @@
 
 
 ## About Me
-- Final Year Computer Science Student at MIT ADT University.
-- 🔭 I’m currently working on developing APIs for sending OTP, validating phone number, and creating an account using email as a Back-End Developer Intern at Fresko Innovation Labs.
-- 👯 I’m looking to collaborate on Python projects related to web development and machine learning.
-- 🤝 I’m looking for help with enhancing my skills in web frameworks like Django and Flask.
+- 🔭 I’m currently working as a Software Development Engineer at Fresko Innovation Labs.
+- 👯 Looking to collaborate on Python projects related to web development and machine learning.
+- 🤝 Looking for help with enhancing my skills in web frameworks like Django and Flask.
 - 🌱 I’m currently learning advanced machine learning algorithms and cloud computing.
 - 💬 Ask me about my experience working with Python and web frameworks, my projects on GitHub, and my participation in tech conferences and events.
 - ⚡ Fun fact: I am an avid football player and have won the runner-up position in the Zonal Sports Meet 2017-18.
