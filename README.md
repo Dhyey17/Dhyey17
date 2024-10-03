@@ -11,6 +11,8 @@
 - 💬 Ask me about my experience working with Python and web frameworks, my projects on GitHub, and my participation in tech conferences and events.
 - ⚡ Fun fact: I am an avid football player and have won the runner-up position in the Zonal Sports Meet 2017-18.
 
+## 🎖️Holopin Badges
+[![An image of @dhyey17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhyey17)](https://holopin.io/@dhyey17)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_the_eyyy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyeyv) 
@@ -27,6 +29,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhyey17&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
 <!---
